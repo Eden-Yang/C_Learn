@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/function_1.dir/function_1.c.o -o function_1
