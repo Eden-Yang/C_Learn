@@ -1,0 +1,3 @@
+/home/eden/Code/c_learn/learn/chapter_4_variable/build/CMakeFiles/chapter_4_variable.dir
+/home/eden/Code/c_learn/learn/chapter_4_variable/build/CMakeFiles/edit_cache.dir
+/home/eden/Code/c_learn/learn/chapter_4_variable/build/CMakeFiles/rebuild_cache.dir

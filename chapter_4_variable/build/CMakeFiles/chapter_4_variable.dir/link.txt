@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/chapter_4_variable.dir/chapter_4_variable.c.o -o chapter_4_variable
