@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/chapter_3_data_type.dir/chapter_3_data_type.c.o -o chapter_3_data_type
